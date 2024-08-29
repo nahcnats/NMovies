@@ -40,9 +40,7 @@ node_modules/
 npm-debug.log
 yarn-error.log
 package-lock.json
-yarn.lock
 .env
-.yarn
 
 # fastlane
 #
@@ -76,3 +74,4 @@ yarn.lock
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+yarn.lock
